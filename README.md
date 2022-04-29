@@ -2,14 +2,6 @@
 
 This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features) for [Kontent by Kentico](https://kontent.ai) that generates a URL slug based on a text field or a custom value. 
 
-## Setup
-
-1. Deploy the code to a secure public host
-   - See [deploying section](#Deploying) for a really quick option
-2. Follow the instructions in the [Kontent documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features#a-3--displaying-a-custom-element-in-kentico-kontent) to add the element to a content model.
-   - The `Hosted code URL` is where you deployed to in step 1
-   - Pass the necessary parameters as directed in the [JSON Parameters configuration](#json-parameters) section of this readme.
-3. Deploy your server repeater for Preview API calls (details below)
 
 ## Deploying
 
